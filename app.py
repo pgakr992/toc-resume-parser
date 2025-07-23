@@ -38,3 +38,4 @@ def parse_resume_from_path():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
